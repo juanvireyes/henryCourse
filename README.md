@@ -1,2 +1,1 @@
-# henryPrepCourse
-Repo de prueba módulo 2 Henry Prep Course
+Esta es una prueba de crear, clonar y traer a mi local un repo de GitHub
